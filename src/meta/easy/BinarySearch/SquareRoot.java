@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.BinarySearch;
 
 public class SquareRoot {
     public int mySqrt(int x) {
@@ -16,7 +16,7 @@ public class SquareRoot {
                 right = pivot - 1;
             }
         }
-        return right;
+        return right;//The loop exits when left > right, and right is the largest number such that right² ≤ x. That makes it the integer part of √x.
     }
     // Time complexity : O (log x)
     //Space complexity : O(1)

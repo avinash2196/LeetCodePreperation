@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.BinarySearch;
 
 public class InsertPositionInSortedArray {
     public int searchInsert(int[] nums, int target) {

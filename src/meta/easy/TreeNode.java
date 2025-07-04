@@ -1,14 +1,14 @@
 package meta.easy;
 
 public class TreeNode {
-    TreeNode left;
-    TreeNode right;
-    int val;
+    public TreeNode left;
+    public TreeNode right;
+    public int val;
 
-    TreeNode() {
+    public TreeNode() {
     }
 
-    TreeNode(int val) {
+    public TreeNode(int val) {
         this.val = val;
     }
 }
