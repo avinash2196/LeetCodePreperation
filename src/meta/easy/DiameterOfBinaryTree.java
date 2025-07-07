@@ -1,5 +1,7 @@
 package meta.easy;
 
+import meta.TreeNode;
+
 public class DiameterOfBinaryTree {
     private int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {

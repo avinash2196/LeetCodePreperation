@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.OnePass;
 
 import java.util.HashSet;
 import java.util.Set;

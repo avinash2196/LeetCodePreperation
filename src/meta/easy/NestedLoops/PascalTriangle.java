@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.NestedLoops;
 
 import java.util.ArrayList;
 import java.util.List;

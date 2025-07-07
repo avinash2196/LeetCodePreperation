@@ -1,6 +1,6 @@
 package meta.easy.BinaryTree;
 
-import meta.easy.TreeNode;
+import meta.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.Design;
 
 import java.util.LinkedList;
 import java.util.Queue;

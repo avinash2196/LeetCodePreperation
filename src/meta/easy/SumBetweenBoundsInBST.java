@@ -1,5 +1,7 @@
 package meta.easy;
 
+import meta.TreeNode;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 

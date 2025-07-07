@@ -1,4 +1,4 @@
-package meta.easy;
+package meta;
 
 public class TreeNode {
     public TreeNode left;

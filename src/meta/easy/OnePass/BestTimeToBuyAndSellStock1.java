@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.OnePass;
 
 public class BestTimeToBuyAndSellStock1 {
     public int maxProfit(int[] prices) {

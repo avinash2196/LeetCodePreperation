@@ -1,6 +1,6 @@
 package meta.easy.BinaryTree;
 
-import meta.easy.TreeNode;
+import meta.TreeNode;
 
 public class BalancedBST {
     public boolean isBalanced(TreeNode root) {
