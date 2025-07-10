@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.OnePass;
 
 public class ValidPalindrome1 {
     public boolean isPalindrome(String s) {

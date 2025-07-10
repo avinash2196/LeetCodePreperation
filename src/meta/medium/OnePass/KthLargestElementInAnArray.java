@@ -1,8 +1,8 @@
-package meta.medium;
+package meta.medium.OnePass;
 
 import java.util.PriorityQueue;
 
-public class KthLargestElementFinder {
+public class KthLargestElementInAnArray {
 
     public int findKthLargest(int[] nums, int k) {
         // Min-heap to store the k largest elements seen so far ( min at top)

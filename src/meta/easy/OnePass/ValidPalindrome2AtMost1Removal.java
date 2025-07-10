@@ -1,4 +1,4 @@
-package meta.easy;
+package meta.easy.OnePass;
 
 public class ValidPalindrome2AtMost1Removal {
     public boolean validPalindrome(String s) {

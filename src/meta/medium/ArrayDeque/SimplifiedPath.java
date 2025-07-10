@@ -1,4 +1,4 @@
-package meta.medium;
+package meta.medium.ArrayDeque;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
